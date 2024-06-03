@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\guardiansofthecode\\multiplayer\\subscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|solutionrelative:guardiansofthecode\\multiplayer\\subscriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\guardiansofthecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|solutionrelative:guardiansofthecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\guardiansofthecode\\facades\\gameboardfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|solutionrelative:guardiansofthecode\\facades\\gameboardfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\guardiansofthecode\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|solutionrelative:guardiansofthecode\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\guardiansofthecode\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C0B7BB-817A-479F-A0E9-98207A7266C1}|GuardiansOfTheCode\\GuardiansOfTheCode.csproj|solutionrelative:guardiansofthecode\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\common\\icardcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|solutionrelative:common\\icardcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\common\\defensedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|solutionrelative:common\\defensedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\common\\carddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|solutionrelative:common\\carddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\guardiansofthecode\\common\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC634FAF-3EFD-4DB1-9964-6175C7D1D512}|Common\\Common.csproj|solutionrelative:common\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionManager.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Multiplayer\\SubscriptionManager.cs",
+              "RelativeDocumentMoniker": "GuardiansOfTheCode\\Multiplayer\\SubscriptionManager.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Multiplayer\\SubscriptionManager.cs",
+              "RelativeToolTip": "GuardiansOfTheCode\\Multiplayer\\SubscriptionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:40:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnemy.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\IEnemy.cs",
+              "RelativeDocumentMoniker": "GuardiansOfTheCode\\IEnemy.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\IEnemy.cs",
+              "RelativeToolTip": "GuardiansOfTheCode\\IEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:11:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICardComponent.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\ICardComponent.cs",
+              "RelativeDocumentMoniker": "Common\\ICardComponent.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\ICardComponent.cs",
+              "RelativeToolTip": "Common\\ICardComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:08:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameboardFacade.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Facades\\GameboardFacade.cs",
+              "RelativeDocumentMoniker": "GuardiansOfTheCode\\Facades\\GameboardFacade.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Facades\\GameboardFacade.cs",
+              "RelativeToolTip": "GuardiansOfTheCode\\Facades\\GameboardFacade.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAqwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:31:08.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefenseDecorator.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\DefenseDecorator.cs",
+              "RelativeDocumentMoniker": "Common\\DefenseDecorator.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\DefenseDecorator.cs",
+              "RelativeToolTip": "Common\\DefenseDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:42:51.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Card.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\Card.cs",
+              "RelativeDocumentMoniker": "Common\\Card.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\Card.cs",
+              "RelativeToolTip": "Common\\Card.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:20:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CardDecorator.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\CardDecorator.cs",
+              "RelativeDocumentMoniker": "Common\\CardDecorator.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\Common\\CardDecorator.cs",
+              "RelativeToolTip": "Common\\CardDecorator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T14:30:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Program.cs",
+              "RelativeDocumentMoniker": "GuardiansOfTheCode\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Program.cs",
+              "RelativeToolTip": "GuardiansOfTheCode\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wDMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:33:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gameboard.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Gameboard.cs",
+              "RelativeDocumentMoniker": "GuardiansOfTheCode\\Gameboard.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\GuardiansOfTheCode\\GuardiansOfTheCode\\Gameboard.cs",
+              "RelativeToolTip": "GuardiansOfTheCode\\Gameboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:10:51.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
